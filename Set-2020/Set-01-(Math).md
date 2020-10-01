@@ -1,0 +1,13 @@
+[Question 1](https://www.hackerrank.com/challenges/maximum-draws/problem)<br>
+[Question 2](https://www.hackerrank.com/challenges/find-point/problem)<br>
+[Question 3](http://codeforces.com/problemset/problem/1/A)<br>
+[Question 4](http://codeforces.com/problemset/problem/50/A)<br>
+[Question 5](https://www.hackerrank.com/challenges/lowest-triangle/problem)<br>
+[Question 6](http://codeforces.com/problemset/problem/742/A)<br>
+[Question 7](https://www.hackerrank.com/challenges/p1-paper-cutting/problem)<br>
+[Question 8](http://codeforces.com/problemset/problem/659/A)<br>
+[Question 9](https://www.hackerrank.com/challenges/summing-the-n-series/problem)<br>
+[Question 10](https://www.hackerrank.com/challenges/best-divisor/problem)<br>
+[Question 11](https://www.hackerrank.com/challenges/ncr-table/problem)<br>
+[Question 12](https://www.hackerrank.com/challenges/sherlock-and-pairs/problem)<br>
+[Question 13](https://www.hackerrank.com/contests/projecteuler/challenges/euler001)<br>
