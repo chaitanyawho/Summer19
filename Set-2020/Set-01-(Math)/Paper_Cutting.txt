@@ -1,0 +1,2 @@
+//Mary has an  nxm piece of paper that she wants to cut into 1x1 pieces (no folding)
+//take long long , ans =n*m-1cd ..

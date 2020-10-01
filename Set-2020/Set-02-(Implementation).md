@@ -1,0 +1,14 @@
+[Question 1](http://codeforces.com/contest/282/problem/A)<br>
+[Question 2](http://codeforces.com/problemset/problem/705/A)<br>
+[Question 3](http://codeforces.com/problemset/problem/4/C)<br>
+[Question 4](https://www.hackerrank.com/challenges/apple-and-orange/problem)<br>
+[Question 5](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)<br>
+[Question 6](https://www.hackerrank.com/challenges/migratory-birds/problem)<br>
+[Question 7](https://www.hackerrank.com/challenges/counting-valleys/problem)<br>
+[Question 8](http://codeforces.com/problemset/problem/937/A)<br>
+[Question 9](http://codeforces.com/problemset/problem/300/A)<br>
+[Question 10](http://codeforces.com/problemset/problem/862/A)<br>
+[Question 11](http://codeforces.com/problemset/problem/109/A)<br>
+[Question 12](https://www.hackerrank.com/challenges/strange-code/problem)<br>
+[Question 13](https://www.hackerrank.com/challenges/service-lane/problem)<br>
+[Question 14](http://codeforces.com/problemset/problem/104/A)<br>

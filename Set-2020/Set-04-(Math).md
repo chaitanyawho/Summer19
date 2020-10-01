@@ -1,0 +1,14 @@
+[Question 1](http://codeforces.com/problemset/problem/762/A)<br>
+[Question 2](http://codeforces.com/problemset/problem/347/B)<br>
+[Question 3](http://codeforces.com/problemset/problem/757/B)<br>
+[Question 4](http://codeforces.com/problemset/problem/344/B)<br>
+[Question 5](http://codeforces.com/problemset/problem/385/B)<br>
+[Question 6](http://codeforces.com/problemset/problem/900/B)<br>
+[Question 7](http://codeforces.com/problemset/problem/376/A)<br>
+[Question 8](http://codeforces.com/problemset/problem/485/A)<br>
+[Question 9](https://www.hackerrank.com/challenges/number-groups/problem)<br>
+[Question 10](https://www.hackerrank.com/challenges/possible-path/problem)<br>
+[Question 11](https://www.hackerrank.com/challenges/xrange-and-pizza/problem)<br>
+[Question 12](https://www.hackerrank.com/challenges/points-on-rectangle/problem)<br>
+[Question 13](https://www.hackerrank.com/challenges/vertical-sticks/problem)<br>
+[Question 14](https://www.hackerrank.com/challenges/extremely-dangerous-virus/problem)<br>
